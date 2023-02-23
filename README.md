@@ -61,8 +61,8 @@
 
 ##Алгоритм создания запроса на изменение данных (pull request)
 
-1. Форкнуть репозиторий(fork)
+1. Форкнуть репозиторий(fork).
 2. Делаем клон форкнутого репозитория к себе на компьютер (clone).
 3. Создаем новю ветку и добавляем изменения.
-4. git push --set-upstream origin branch_name
-5. Подредактировать pull request на github
+4. git push --set-upstream origin branch_name.
+5. Подредактировать pull request на github.
